@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying in Amity University<br>🌱 I’m currently learning BCA <br>⚡ Fun fact : I have specialities my in python programming language , MySQL , HTML , CSS , JAVA SCRIPT
-
+🔭 I’m currently studying in Amity University<br>🌱 I’m currently learning BCA <br>⚡ Fun fact : My tech stack focuses on Python and MySQL for backend operations, along with HTML, CSS, and JavaScript for frontend design.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jahaan_gauri786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahaan-gauri-705182349/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jahaangauri786@gmail.com) 
